@@ -1,0 +1,39 @@
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.exe
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.xml
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.pdb
+c:\users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.FrmMain.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmRegistration.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmRegistrationDetails.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.userLogin.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmDistributor.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmCustomersRecord.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmCustomersRecord3.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmVendor.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmVendorRecords.resources
+C:\Users\dell\documents\visual studio 2010\Projects\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmProduct.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\User\Downloads\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\User\Downloads\InventorySystem\InventorySystem\bin\Debug\InventorySystem.xml
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbprojAssemblyReference.cache
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Form1.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmCustomersRecord.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmCustomersRecord3.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmDistributor.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.FrmMain.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmProduct.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmRegistration.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmRegistrationDetails.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmVendor.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.frmVendorRecords.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.Resources.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.userLogin.resources
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.exe
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.xml
+C:\Users\User\Downloads\InventorySystem\InventorySystem\obj\x86\Debug\InventorySystem.pdb
